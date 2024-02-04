@@ -1,0 +1,78 @@
+.mainbox {
+    background-color: lemonchiffon;
+    padding: 20px 20px;
+    width: 600px;
+    height: 500px;
+}
+
+#image {
+    display: block;
+margin-left: auto;
+margin-right: auto;
+    height: 50px;
+    width: 50px;
+
+}
+
+.header {
+    text-transform: uppercase;
+    line-height: 15%;
+    font-size: larger;
+    font-weight: 1500;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: lawngreen;
+}
+.para0{
+    position: relative;
+}
+
+.para0 span {
+color: blue;
+}
+
+#bimage {
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: 400px;
+width: 86%;
+opacity: 0.5;
+
+}
+
+.smallbox {
+    background-color: rgb(54, 49, 2);
+    padding: 10px 10px;
+    width: 220px;
+    height: 200px;
+    position: absolute;
+    margin-top: -13%;
+    margin-left: -1%;
+    z-index: -1%;
+    opacity: 0.7;
+    
+    
+}
+
+
+.para1 {
+    color: lemonchiffon;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: x-large;
+
+}
+.list {
+    color: lemonchiffon;
+    font-weight: 100;
+    font-style: normal;
+    font-size: medium;
+
+}
+
+
+
+
+
+
